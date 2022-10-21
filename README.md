@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youssefshehab12
 - 👀 I’m interested in Data Analytics and Football.
-- 🌱 Favorite Visualization Tools: Tableau, PowerBI, and OAC.
+- 🌱 Favorite Visualization Tools: Python, Tableau, PowerBI, and OAC.
 - 💞️ I’m looking to collaborate on any project that is coded using python or SQL.
 - 📫 How to reach me Youssefshehab12.ys@gmail.com
 
